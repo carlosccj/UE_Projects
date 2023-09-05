@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Software/UE Projects/WarehouseProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/DuplicatedMap/Warehouse.umap",
+				"C:/Software/UE Projects/WarehouseProject/Content/DuplicatedMap/BP_Projectile.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/DuplicatedMap/FactoryMap.umap",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_WaterTank01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Barrel04.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Rack02.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Box01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Box03.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_CartonBox03.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage03.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage06.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage09.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Hose01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/IndustryPropsPack6/Meshes/SM_Rack01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/BP_Barrel01.uasset",
+				"C:/Software/UE Projects/WarehouseProject/Content/StarterContent/Maps/Warehouse.umap"
+			]
+		}
+	]
+}
